@@ -266,21 +266,16 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2">## 2016Fall 電腦輔助設計實習課程
+<t tx="amd.20161004095719.2">## 2016FALL CADPA 課程
 
-### 虎科大機械設計工程系
+### The html presentation framework
 
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by 第五組
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](blog/index.html)
+&lt;a href="https://mdecourse.github.io/2016fallcadpa/blog/index.html"&gt;blog&lt;/a&gt;
 
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
-
-[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
